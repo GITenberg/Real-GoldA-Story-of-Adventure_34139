@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3840
     wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34139#Real-GoldA-Story-of-Adventure
 gutenberg_issued: '2010-10-26'
 gutenberg_type: Text
 identifiers:
